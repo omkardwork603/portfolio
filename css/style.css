@@ -401,15 +401,15 @@ span{
 }
 
 .skills .progress:nth-child(1) .bar span{
-	width: 95%;
+	width: 75%;
 }
 
 .skills .progress:nth-child(2) .bar span{
-	width: 85%;
+	width: 65%;
 }
 
 .skills .progress:nth-child(3) .bar span{
-	width: 85%;
+	width: 75%;
 }
 
 .skills .progress:nth-child(4) .bar span{
